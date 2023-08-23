@@ -1,1 +1,1 @@
-# CodeClauseInternship_Music_player
+# CodeClauseInternship_Python_Projects
